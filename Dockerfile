@@ -1,0 +1,1 @@
+FROM highsparrow11/astro_iceberg:latest
